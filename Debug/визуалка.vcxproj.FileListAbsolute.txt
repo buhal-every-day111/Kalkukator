@@ -1,0 +1,9 @@
+C:\Users\alsah\Desktop\Академия, важно!!!!!\визуалка\Debug\визуалка.vcxproj.AssemblyReference.cache
+C:\Users\alsah\Desktop\Академия, важно!!!!!\визуалка\Debug\визуалка.exe
+C:\Users\alsah\Desktop\Академия, важно!!!!!\визуалка\Debug\визуалка.MyForm.resources
+C:\Users\alsah\Desktop\Академия, важно!!!!!\визуалка\Debug\визуалка.vcxproj.GenerateResource.cache
+F:\визуалка\Debug\визуалка.vcxproj.AssemblyReference.cache
+F:\визуалка\Debug\визуалка.vcxproj.SuggestedBindingRedirects.cache
+F:\визуалка\Debug\визуалка.MyForm.resources
+F:\визуалка\Debug\визуалка.vcxproj.GenerateResource.cache
+F:\визуалка\Debug\визуалка.exe
